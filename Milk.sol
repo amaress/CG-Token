@@ -1,9 +1,7 @@
 /*
-   #MILK features:
-   2% fee auto add to the liquidity pool to locked forever when selling
-   2% fee auto add to charity wallet for food-based charities
-   2% fee auto distribute to all holders
-   20% Supply is burned at start.
+   #CG-Token features:
+   2% fee auto add to charity wallet for Cottage Grove based charities
+   1% fee auto add to DEV wallet for marketing and promotion
    
 
  */
